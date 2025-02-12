@@ -1,4 +1,4 @@
 # software
 minesweeper iteration
 
-If there are ways to make this more efficien tell me :)
+Feel free to tell me how to kae my code look cleaner.
